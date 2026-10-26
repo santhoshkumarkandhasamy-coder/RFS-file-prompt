@@ -1,0 +1,6 @@
+# client data and generated files - never commit
+input/
+work/
+*.xlsx
+*.xls
+__pycache__/
